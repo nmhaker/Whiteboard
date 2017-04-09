@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../../Downloads/pen-icon_1x.ico</file>
+    </qresource>
+</RCC>
